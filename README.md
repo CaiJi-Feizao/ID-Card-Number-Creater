@@ -10,4 +10,4 @@ To Creat or Examine a Relatively Proper ID-Card Number In China
 
 - 警告：请勿使用其进行非法操作，后果自负
 
-- 缺陷：第1位至第6位，第15至第17位的地区相关码机制未加入检验机制
+- 缺陷：第1位至第6位，第15至第17位的地区相关码机制未加入检验
