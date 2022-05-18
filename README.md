@@ -1,4 +1,4 @@
-# ID-card-Number-Creater
+# ID-Card-Number-Creater
 To Creat or Examine a Relatively Proper ID-Card Number In China
 
 生成或一个符合要求的身份证号或检查某个未知身份证号的可行性
