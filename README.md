@@ -4,7 +4,8 @@ To Creat or Examine a Relatively Proper ID-Card Number In China
 生成或一个符合要求的身份证号或检查某个未知身份证号的可行性
 
 ## 须知
-- 缘由：观看了视频：https://www.bilibili.com/video/BV1U7411p7WH 后想根据其原理进行程序化的计算
+- 缘由：观看了视频：[史上最靓身份证号即将诞生！李永乐老师揭秘身份证号码的秘密
+](https://www.bilibili.com/video/BV1U7411p7WH) 后想根据其原理进行程序化的计算
 
 - 编写语言：Python
 
